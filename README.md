@@ -41,3 +41,4 @@ Visit: `http://localhost:9002`
 - **Styling:** Tailwind CSS (Custom Emerald Green & Charcoal theme)
 - **Icons:** Lucide React
 - **Forms:** React Hook Form + Zod validation
+
